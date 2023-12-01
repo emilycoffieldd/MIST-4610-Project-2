@@ -2,9 +2,9 @@
 
 # 29704 Group 6
 
-Luis Garcia @LuisCVG
+Luis Garcia @LuisCVG - https://github.com/LuisCVG/MIST-4610-Project-2.git
 
-Emily Coffield @emilycoffieldd
+Emily Coffield @emilycoffieldd - https://github.com/emilycoffieldd/MIST-4610-Project-2.git 
 
 Efe Guvenc @eguvenc03
 

@@ -6,11 +6,11 @@ Luis Garcia @LuisCVG - https://github.com/LuisCVG/MIST-4610-Project-2.git
 
 Emily Coffield @emilycoffieldd - https://github.com/emilycoffieldd/MIST-4610-Project-2.git 
 
-Efe Guvenc @eguvenc03
+Efe Guvenc @eguvenc03 - *
 
-Eris Jang @erissjang
+Eris Jang @erissjang - *
 
-Jessica Nguyen @jessngph09
+Jessica Nguyen @jessngph09 - *
 
 # Dataset Information
 
@@ -29,10 +29,18 @@ When looking at contributing factors to suicide, it might be helpful to examine 
 
 # Data Manipulations
 
-
+*
 
 # Analysis and Results
 
+Have suicide rates gone up over time?
 
+Overall, suicide rates for the total population have gone up over time as you can see from the linear trend line. However, there was an abrupt shift in the trend during the year 2000, when it reached its lowest suicide rate. The suicide rate was pretty stable until the year 1986 when the rate went down reaching its lowest in the year 2000 and started steadily rising afterward. 
+
+What sort of demographic factors impact suicide the most?
+
+*
 
 # Tableau Packaged Workbook
+
+*

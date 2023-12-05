@@ -85,7 +85,7 @@ In reference to all these findings, we can begin to put together a profile of wh
 # Tableau Packaged Workbook
 ### Have suicide rates gone up over time?
 
-*
+[Workbook 1](https://github.com/emilycoffieldd/MIST-4610-Project-2/blob/main/MIST%204610_Project%202_Question%201.twb)
 
 ### What sort of demographic factors impact suicide the most?
 

@@ -77,6 +77,8 @@ Our data only has data on ethnicity in the binary of hispanic and non-hispanic, 
 
 ![image](https://github.com/emilycoffieldd/MIST-4610-Project-2/assets/148081148/23470e7f-0d48-4f56-a5b8-c17cc248c5d0)
 ![image](https://github.com/emilycoffieldd/MIST-4610-Project-2/assets/148081148/3ce59100-722d-40be-9f1d-2d0b3c6d1b6a)
+![image](https://github.com/emilycoffieldd/MIST-4610-Project-2/assets/148081148/bc47978e-9fc7-4988-b1f1-265e96c71864)
+
 
 Referencing age in this final diagram, it is observable that people later in life used to have higher suicide rates, which can probably be traced to end-of-life suicides as well as other factors. However, as life expectancy rises, those in the '65 Years or Older' catergory begin to experience rates which could conceivably be caused by this age range's population total increasing as end-of-life suicides are dilluted by a growing class of boomers. Meanwhile, suicide rates at '45-64 Years' have only gone up which is more likely to be a concern of mental health attitudes that might be attributed to mid-life hopelessness and a "dead-end mentality". Finally, it is important to observe that suicide rates for those ages '15-24 Years', while being the lowest, have experienced the greatest rate of change over time, rapidly approaching rates of those over the age of 65. It is abundantly possible that this could be caused by the age of the internet as younger generations are the most likely to participate in social media and other forms of technological entertainment that might bring to light attitudes of hopelessness and humiliation in ways older Americans have never before experienced.
 

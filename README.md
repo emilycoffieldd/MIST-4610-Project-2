@@ -83,5 +83,10 @@ Referencing age in this final diagram, it is observable that people later in lif
 In reference to all these findings, we can begin to put together a profile of what someone who is tempted by suicide might look like. They may be male, may be White or American Indian, likely to be ethnically non-Hispanic or Latino, possibly middle-aged. A profile like this can indicate approximately which groups are struggling with mental health most and how extremely. When a person can be statistically identified, they can be researched, allowing scientists and mental health professionals pinpoint how best to help these people who are experiencing this particular flavor of hopelessness. In regards to sex, clearly men have a higher disposition to suicide, so what emotionally affirming services can be marketed to them? White Americans and American Indians also experience significantly higher suicide rates than their AAPI and Black American counter parts, especially those of non-Hispanic or Latino origin, so what can be done to shift the attitudes in these groups of people? Finally, our data can kickstart initiatives that target specific age demographics in intentional ways. For example, researchers might target young adults with cyber-bullying check-ins, older adults with anti-loneliness initiatives. Finding the profile on an American who is statistically more likely to commit suicide and why is the first step in combatting rising suicide rates.
 
 # Tableau Packaged Workbook
+### Have suicide rates gone up over time?
 
+*
 
+### What sort of demographic factors impact suicide the most?
+
+[Workbook 2](https://github.com/emilycoffieldd/MIST-4610-Project-2/blob/main/U.S.%20Rates%20of%20Suicide%20Over%20time.twbx)
